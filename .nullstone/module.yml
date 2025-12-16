@@ -1,0 +1,17 @@
+org_name: nullstone
+name: gcp-pubsub-consumer
+friendly_name: Pub/Sub Consumer
+description: Grants a Nullstone app the ability to consumer a messages from a Pub/Sub Topic
+category: capability
+subcategory: datastores
+provider_types:
+    - gcp
+platform: pubsub
+subplatform: ""
+type: ""
+appCategories:
+    - container
+    - serverless
+    - server
+is_public: true
+tool_name: ""
